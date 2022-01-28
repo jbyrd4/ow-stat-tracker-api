@@ -1,0 +1,288 @@
+{
+  "friends": [
+    {
+      "id": 1,
+      "name": "didysis",
+      "dpsRank": "Bronze",
+      "tankRank": "Silver",
+      "supRank": "Gold",
+      "userId": 1,
+      "notes": "Persevering client-driven pricing structure"
+    },
+    {
+      "id": 2,
+      "name": "snowman",
+      "dpsRank": "Silver",
+      "tankRank": "Bronze",
+      "supRank": "Gold",
+      "userId": 1,
+      "notes": "User-centric clear-thinking parallelism"
+    },
+    {
+      "id": 3,
+      "name": "vorin",
+      "dpsRank": "Platinum",
+      "tankRank": "Diamond",
+      "supRank": "Bronze",
+      "userId": 1,
+      "notes": "Inverse global circuit"
+    },
+    {
+      "id": 4,
+      "name": "hellkat",
+      "dpsRank": "Bronze",
+      "tankRank": "Platinum",
+      "supRank": "Silver",
+      "userId": 2,
+      "notes": "Balanced human-resource core"
+    },
+    {
+      "id": 5,
+      "name": "kilobyte",
+      "dpsRank": "Platinum",
+      "tankRank": "Platinum",
+      "supRank": "Platinum",
+      "userId": 2,
+      "notes": "Realigned high-level groupware"
+    }
+  ],
+  "games": [
+    {
+      "id": 1,
+      "result": true,
+      "mapId": 13,
+      "userId": 1,
+      "date": "4/28/2021"
+    },
+    {
+      "id": 2,
+      "result": true,
+      "mapId": 19,
+      "userId": 1,
+      "date": "5/6/2021"
+    },
+    {
+      "id": 3,
+      "result": false,
+      "mapId": 8,
+      "userId": 1,
+      "date": "10/17/2021"
+    },
+    {
+      "id": 4,
+      "result": false,
+      "mapId": 11,
+      "userId": 1,
+      "date": "12/22/2021"
+    },
+    {
+      "id": 5,
+      "result": true,
+      "mapId": 6,
+      "userId": 1,
+      "date": "6/23/2021"
+    },
+    {
+      "id": 6,
+      "result": true,
+      "mapId": 19,
+      "userId": 2,
+      "date": "1/11/2022"
+    },
+    {
+      "id": 7,
+      "result": true,
+      "mapId": 19,
+      "userId": 2,
+      "date": "1/11/2022"
+    },
+    {
+      "id": 8,
+      "result": true,
+      "mapId": 19,
+      "userId": 2,
+      "date": "1/11/2022"
+    },
+    {
+      "id": 9,
+      "result": true,
+      "mapId": 19,
+      "userId": 2,
+      "date": "1/11/2022"
+    },
+    {
+      "id": 10,
+      "result": false,
+      "mapId": 10,
+      "userId": 2,
+      "date": "12/8/2021"
+    }
+  ],
+  "friendGames": [
+    {
+      "id": 1,
+      "friendId": 1,
+      "gameId": 1
+    },
+    {
+      "id": 2,
+      "friendId": 2,
+      "gameId": 1
+    },
+    {
+      "id": 3,
+      "friendId": 1,
+      "gameId": 2
+    },
+    {
+      "id": 4,
+      "friendId": 3,
+      "gameId": 2
+    },
+    {
+      "id": 5,
+      "friendId": 3,
+      "gameId": 3
+    },
+    {
+      "id": 6,
+      "friendId": 3,
+      "gameId": 4
+    },
+    {
+      "id": 7,
+      "friendId": 1,
+      "gameId": 5
+    },
+    {
+      "id": 8,
+      "friendId": 4,
+      "gameId": 6
+    },
+    {
+      "id": 9,
+      "friendId": 5,
+      "gameId": 6
+    },
+    {
+      "id": 10,
+      "friendId": 4,
+      "gameId": 7
+    },
+    {
+      "id": 11,
+      "friendId": 5,
+      "gameId": 7
+    },
+    {
+      "id": 12,
+      "friendId": 4,
+      "gameId": 8
+    },
+    {
+      "id": 13,
+      "friendId": 4,
+      "gameId": 9
+    },
+    {
+      "id": 14,
+      "friendId": 5,
+      "gameId": 10
+    },
+    {
+      "id": 15,
+      "friendId": 5,
+      "gameId": 9
+    }
+  ],
+  "maps": [
+    {
+      "id": 1,
+      "name": "Blizzard World"
+    },
+    {
+      "id": 2,
+      "name": "Busan"
+    },
+    {
+      "id": 3,
+      "name": "Dorado"
+    },
+    {
+      "id": 4,
+      "name": "Eichenwalde"
+    },
+    {
+      "id": 5,
+      "name": "Hanamura"
+    },
+    {
+      "id": 6,
+      "name": "Havana"
+    },
+    {
+      "id": 7,
+      "name": "Hollywood"
+    },
+    {
+      "id": 8,
+      "name": "Ilios"
+    },
+    {
+      "id": 9,
+      "name": "Junkertown"
+    },
+    {
+      "id": 10,
+      "name": "Kings Row"
+    },
+    {
+      "id": 11,
+      "name": "Lijang Tower"
+    },
+    {
+      "id": 12,
+      "name": "Nepal"
+    },
+    {
+      "id": 13,
+      "name": "Numbani"
+    },
+    {
+      "id": 14,
+      "name": "Oasis"
+    },
+    {
+      "id": 15,
+      "name": "Rialto"
+    },
+    {
+      "id": 16,
+      "name": "Route 66"
+    },
+    {
+      "id": 17,
+      "name": "Temple of Anubis"
+    },
+    {
+      "id": 18,
+      "name": "Volskaya Industries"
+    },
+    {
+      "id": 19,
+      "name": "Watchpoint: Gilbralter"
+    }
+  ],
+  "users": [
+    {
+      "name": "Jury Byrd",
+      "email": "jbyrd4@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "bob",
+      "email": "bob@bob.com",
+      "id": 2
+    }
+  ]
+}
